@@ -1,3 +1,5 @@
+package directory
+
 import (
 	"os"
 	"path"
